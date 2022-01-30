@@ -1,4 +1,4 @@
-api_token='5168340619:AAG1GBy4ps-T0NszJ_SwTQl3oQKu9RNfMng'
+api_token='Bot Token'
 salomlashish=['salom','assalomu alaykum','assalomu alaeykum','salomalikum']
 xayrlashish=['xayr',"sog' bo'ling"]
 from aiogram import Bot,Dispatcher,executor,types
